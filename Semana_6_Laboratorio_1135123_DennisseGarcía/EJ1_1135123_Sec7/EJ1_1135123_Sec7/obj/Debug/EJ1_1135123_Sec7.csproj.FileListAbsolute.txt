@@ -1,0 +1,7 @@
+C:\Users\denni\OneDrive\Documentos\URL\2do semestre\Progra\Lab\Semana_6_Laboratorio_1135123_DennisseGarcía\EJ1_1135123_Sec7\EJ1_1135123_Sec7\bin\Debug\EJ1_1135123_Sec7.exe.config
+C:\Users\denni\OneDrive\Documentos\URL\2do semestre\Progra\Lab\Semana_6_Laboratorio_1135123_DennisseGarcía\EJ1_1135123_Sec7\EJ1_1135123_Sec7\bin\Debug\EJ1_1135123_Sec7.exe
+C:\Users\denni\OneDrive\Documentos\URL\2do semestre\Progra\Lab\Semana_6_Laboratorio_1135123_DennisseGarcía\EJ1_1135123_Sec7\EJ1_1135123_Sec7\bin\Debug\EJ1_1135123_Sec7.pdb
+C:\Users\denni\OneDrive\Documentos\URL\2do semestre\Progra\Lab\Semana_6_Laboratorio_1135123_DennisseGarcía\EJ1_1135123_Sec7\EJ1_1135123_Sec7\obj\Debug\EJ1_1135123_Sec7.csproj.AssemblyReference.cache
+C:\Users\denni\OneDrive\Documentos\URL\2do semestre\Progra\Lab\Semana_6_Laboratorio_1135123_DennisseGarcía\EJ1_1135123_Sec7\EJ1_1135123_Sec7\obj\Debug\EJ1_1135123_Sec7.csproj.CoreCompileInputs.cache
+C:\Users\denni\OneDrive\Documentos\URL\2do semestre\Progra\Lab\Semana_6_Laboratorio_1135123_DennisseGarcía\EJ1_1135123_Sec7\EJ1_1135123_Sec7\obj\Debug\EJ1_1135123_Sec7.exe
+C:\Users\denni\OneDrive\Documentos\URL\2do semestre\Progra\Lab\Semana_6_Laboratorio_1135123_DennisseGarcía\EJ1_1135123_Sec7\EJ1_1135123_Sec7\obj\Debug\EJ1_1135123_Sec7.pdb
