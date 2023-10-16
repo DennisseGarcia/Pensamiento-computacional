@@ -294,7 +294,7 @@ internal class Program
         
 
         // final
-        Console.WriteLine("El tiempo total que viajó es:" + distanciaTotal + "km");
+        Console.WriteLine("El tiempo total que viajó es:" +distanciaTotal/40 + "horas");
         Console.WriteLine("Su total a pagar por los boletos es: Q." + pagoTotal);
         Console.ReadKey();
     }
