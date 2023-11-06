@@ -1,0 +1,7 @@
+C:\Users\denni\OneDrive\Documentos\URL\2do semestre\Progra\Lab\Semana_14_Laboratorio_1135123_DennisseGarcía\L14_DEGB_1135123\L14_DEGB_1135123\bin\Debug\L14_DEGB_1135123.exe.config
+C:\Users\denni\OneDrive\Documentos\URL\2do semestre\Progra\Lab\Semana_14_Laboratorio_1135123_DennisseGarcía\L14_DEGB_1135123\L14_DEGB_1135123\bin\Debug\L14_DEGB_1135123.exe
+C:\Users\denni\OneDrive\Documentos\URL\2do semestre\Progra\Lab\Semana_14_Laboratorio_1135123_DennisseGarcía\L14_DEGB_1135123\L14_DEGB_1135123\bin\Debug\L14_DEGB_1135123.pdb
+C:\Users\denni\OneDrive\Documentos\URL\2do semestre\Progra\Lab\Semana_14_Laboratorio_1135123_DennisseGarcía\L14_DEGB_1135123\L14_DEGB_1135123\obj\Debug\L14_DEGB_1135123.csproj.AssemblyReference.cache
+C:\Users\denni\OneDrive\Documentos\URL\2do semestre\Progra\Lab\Semana_14_Laboratorio_1135123_DennisseGarcía\L14_DEGB_1135123\L14_DEGB_1135123\obj\Debug\L14_DEGB_1135123.csproj.CoreCompileInputs.cache
+C:\Users\denni\OneDrive\Documentos\URL\2do semestre\Progra\Lab\Semana_14_Laboratorio_1135123_DennisseGarcía\L14_DEGB_1135123\L14_DEGB_1135123\obj\Debug\L14_DEGB_1135123.exe
+C:\Users\denni\OneDrive\Documentos\URL\2do semestre\Progra\Lab\Semana_14_Laboratorio_1135123_DennisseGarcía\L14_DEGB_1135123\L14_DEGB_1135123\obj\Debug\L14_DEGB_1135123.pdb
