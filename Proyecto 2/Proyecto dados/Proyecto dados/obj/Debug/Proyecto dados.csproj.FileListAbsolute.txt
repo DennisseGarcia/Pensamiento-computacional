@@ -1,0 +1,7 @@
+C:\Users\denni\OneDrive\Documentos\URL\2do semestre\Progra\Lab\Proyecto 2\Proyecto dados\Proyecto dados\bin\Debug\Proyecto dados.exe.config
+C:\Users\denni\OneDrive\Documentos\URL\2do semestre\Progra\Lab\Proyecto 2\Proyecto dados\Proyecto dados\bin\Debug\Proyecto dados.exe
+C:\Users\denni\OneDrive\Documentos\URL\2do semestre\Progra\Lab\Proyecto 2\Proyecto dados\Proyecto dados\bin\Debug\Proyecto dados.pdb
+C:\Users\denni\OneDrive\Documentos\URL\2do semestre\Progra\Lab\Proyecto 2\Proyecto dados\Proyecto dados\obj\Debug\Proyecto dados.csproj.AssemblyReference.cache
+C:\Users\denni\OneDrive\Documentos\URL\2do semestre\Progra\Lab\Proyecto 2\Proyecto dados\Proyecto dados\obj\Debug\Proyecto dados.csproj.CoreCompileInputs.cache
+C:\Users\denni\OneDrive\Documentos\URL\2do semestre\Progra\Lab\Proyecto 2\Proyecto dados\Proyecto dados\obj\Debug\Proyecto dados.exe
+C:\Users\denni\OneDrive\Documentos\URL\2do semestre\Progra\Lab\Proyecto 2\Proyecto dados\Proyecto dados\obj\Debug\Proyecto dados.pdb
